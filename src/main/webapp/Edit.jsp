@@ -7,7 +7,7 @@
 <title>Edit</title>
 </head>
 <body>
-
+	
 	<form action="update" method="post">
 		<h2>
 			Updating Student Information of Id "<%=request.getParameter("id")%>"
